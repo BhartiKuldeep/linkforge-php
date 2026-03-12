@@ -93,27 +93,6 @@ http://localhost:8000
 5. When the short URL is opened, the app logs the click in `storage/clicks.json`.
 6. The visitor is redirected to the original URL.
 
-## Example repository metadata
-
-### Repository name
-`linkforge-php`
-
-### One-line description
-Responsive PHP URL shortener with analytics dashboard, custom aliases, expiration support, and no database required.
-
-### Topics / tags
-`php`, `url-shortener`, `php-project`, `portfolio-project`, `web-app`, `responsive-ui`, `analytics`, `json-storage`
-
-## Ideas for future improvements
-
-- User authentication
-- Password-protected short links
-- QR code generation
-- Export analytics as CSV
-- REST API for creating links programmatically
-- Search and filter on dashboard
-- Docker support
-
 ## License
 
 MIT
